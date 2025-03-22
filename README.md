@@ -1,7 +1,5 @@
 # Vision-Transformers-A-comprehensive-study
 
-# Vision Transformers: A Comprehensive Study
-
 This repository provides a detailed exploration of Vision Transformers (ViTs) and their evolution in the field of computer vision. From foundational CNN architectures to the latest specialized ViT variants, this repository serves as a valuable resource for researchers, practitioners, and enthusiasts interested in understanding the development and impact of transformer-based approaches in vision tasks.
 
 ## Repository Structure
