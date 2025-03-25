@@ -4,10 +4,11 @@ This directory explores the pivotal Convolutional Neural Network (CNN) architect
 
 ## Overview of CNN Evolution
 
-### LeNet (1989)
+### LeNet (1989-1998)
 - **Pioneer of Convolutional Neural Networks**
 - Developed by Yann LeCun
-- First successful application of CNNs to handwritten digit recognition
+- Series of CNN Archtectures (The most successful LeNet5 Model will be discussed in detail)
+- First successful application of CNNs to handwritten digit recognition on grayscale images
 - Introduced key CNN concepts: convolutional layers, pooling, and fully connected layers
 - Laid the groundwork for future deep learning in computer vision
 
