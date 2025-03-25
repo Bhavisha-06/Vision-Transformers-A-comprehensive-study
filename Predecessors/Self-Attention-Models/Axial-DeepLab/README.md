@@ -4,7 +4,7 @@
 - **Title:** Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation
 - **Authors:** Huiyu Wang, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille, Liang-Chieh Chen
 - **Publication:** European Conference on Computer Vision (ECCV), 2020
-- **Link:** Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation
+- **Link:** [Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation](https://arxiv.org/abs/2003.07853)
 
 ## Key Contributions
 - Introduced axial attention as an efficient alternative to convolutions for image segmentation
