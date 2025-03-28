@@ -34,6 +34,8 @@ LeNet-5 consists of seven layers (not counting the input):
 
 A unique aspect of the C3 layer is that not all S2 feature maps connect to all C3 feature maps, creating a non-complete connectivity pattern that reduces complexity and forces different feature maps to extract different features.
 
+![Archutecture Diagram](LeNet_Architecture.png)
+
 ---
 
 ## Key Innovations
