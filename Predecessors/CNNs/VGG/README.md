@@ -38,6 +38,7 @@ VGG explored networks of increasing depth, from 11 layers (VGG-11) to 19 layers 
 - **Fully Connected:** 4096 units with dropout
 - **Fully Connected:** 4096 units with dropout
 - **Output:** 1000 units with softmax
+  ![Architecture Diagram](VGG16_Architecture.png)
 
 ## Key Innovations
 - **Depth with Small Filters:** Demonstrated that stacking multiple 3×3 convolutions provides the same effective receptive field as larger filters (e.g., three 3×3 layers ≈ one 7×7 layer) while incorporating more non-linearities and using fewer parameters.
