@@ -56,6 +56,7 @@ Output
 - **DenseNet-169:** 6, 12, 32, 32 layers in each dense block
 - **DenseNet-201:** 6, 12, 48, 32 layers in each dense block
 - **DenseNet-264:** 6, 12, 64, 48 layers in each dense block
+  ![DenseNet-121 Architecture Diagram](DenseNet121_Architecture.png)
 
 ### Growth Rate
 - The "growth rate" (**k**) controls how many new features each layer contributes.
