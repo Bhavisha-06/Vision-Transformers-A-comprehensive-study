@@ -28,7 +28,7 @@ AlexNet consists of **eight layers**: five convolutional layers followed by thre
 - **FC6:** Fully connected layer with 4096 units, ReLU, and dropout (0.5)
 - **FC7:** Fully connected layer with 4096 units, ReLU, and dropout (0.5)
 - **FC8:** Fully connected layer with 1000 units (number of classes), followed by softmax
-
+![Architecture Diagram](AlexNet_Architecture.png)
 A notable implementation detail of the original AlexNet was its **two-stream architecture**, split across two GPUs due to memory constraints. Each GPU processed half of the kernels in each convolutional layer.
 
 ## Key Innovations
