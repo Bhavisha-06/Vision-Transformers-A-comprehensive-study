@@ -4,7 +4,7 @@
 **Title:** Gradient-Based Learning Applied to Document Recognition  
 **Authors:** Yann LeCun, Léon Bottou, Yoshua Bengio, Patrick Haffner  
 **Publication:** Proceedings of the IEEE, 86(11), 2278-2324  
-[Link to Original Paper](https://ieeexplore.ieee.org/document/726791)
+[Link to Original Paper](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 
 ---
 
