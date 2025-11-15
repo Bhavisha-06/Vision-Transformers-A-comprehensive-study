@@ -1,4 +1,3 @@
-# InceptionNet/GoogleNet (2014)
 # GoogleNet / Inception v1 (2014)
 
 ## Paper Details and Authors
