@@ -11,7 +11,6 @@ Vision-Transformers/
 │   ├── CNNs/                       # Convolutional Neural Networks that laid the groundwork
 │   ├── Attention-CV/               # Early attention mechanisms in computer vision
 │   ├── Transformers-NLP/           # Transformer architectures from NLP
-│   └── Self-Attention-Models/      # Early Self Attention models
 ├── ViT/                            # The original Vision Transformer
 │   └── ViT-Original/               # Details of the groundbreaking ViT paper
 ├── Improvements/                   # Post-ViT improvements and variations
